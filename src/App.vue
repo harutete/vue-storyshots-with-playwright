@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import UtilityButton from './components/UtilityButton.vue'
+import CounterButton from './components/CounterButton.vue'
 </script>
 
 <template>
-  <utility-button />
+  <counter-button />
 </template>
